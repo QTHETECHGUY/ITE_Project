@@ -12,5 +12,4 @@
 
 **Collaborators:**  
 - Lashauna Porter  
-- Juanelle Marks
 
