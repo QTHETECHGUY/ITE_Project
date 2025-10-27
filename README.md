@@ -19,6 +19,5 @@
 6. PR approved and merged into main  
 
 **Collaborators:**  
-- Lashauna Porter  
-- Juanelle Marks
+- Lashauna Porter 
 
